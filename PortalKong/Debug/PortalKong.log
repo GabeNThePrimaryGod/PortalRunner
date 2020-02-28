@@ -1,0 +1,23 @@
+﻿  levels.h
+  main.c
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\resources.h(179): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\resources.h(179): warning C4024: 'al_load_font' : types différents pour le paramètre formel et réel 3
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\resources.h(180): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\resources.h(180): warning C4024: 'al_load_font' : types différents pour le paramètre formel et réel 3
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\resources.h(181): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\resources.h(181): warning C4024: 'al_load_font' : types différents pour le paramètre formel et réel 3
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\resources.h(740): warning C4047: '<' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\resources.h(777): warning C4047: '<' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(146): warning C4047: 'fonction' : les niveaux d'indirection de 'int *' et de 'int' sont différents
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(146): warning C4024: 'PortalsCollision' : types différents pour le paramètre formel et réel 3
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(263): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(265): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(267): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(269): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(271): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(273): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(275): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(277): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(313): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+c:\users\flo\documents\_a cours\_c\ze project\_code\portalkong\portalkong\main.c(314): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+  PortalKong.vcxproj -> C:\Users\Flo\Documents\_A COURS\_C\ZE PROJECT\_Code\PortalKong\Debug\ZE PROJECT.exe

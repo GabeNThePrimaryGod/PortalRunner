@@ -1,0 +1,36 @@
+﻿  levels.h
+  main.c
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\resources.h(179,67): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\resources.h(179,67): warning C4024: 'al_load_font' : types différents pour le paramètre formel et réel 3
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\resources.h(180,69): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\resources.h(180,69): warning C4024: 'al_load_font' : types différents pour le paramètre formel et réel 3
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\resources.h(181,69): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\resources.h(181,69): warning C4024: 'al_load_font' : types différents pour le paramètre formel et réel 3
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\resources.h(756,34): warning C4047: '<' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\resources.h(793,33): warning C4047: '<' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(146,44): warning C4047: 'fonction' : les niveaux d'indirection de 'int *' et de 'int' sont différents
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(146,44): warning C4024: 'PortalsCollision' : types différents pour le paramètre formel et réel 3
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(263,34): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(263,43): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(265,34): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(265,43): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(267,34): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(267,43): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(269,34): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(269,43): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(271,34): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(271,43): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(273,34): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(273,43): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(275,34): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(275,43): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(277,34): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(277,43): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(313,28): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(314,27): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\PortalKong\main.c(314,36): warning C4048: indices de tableau différents : 'int *(*)[72]' et 'int (*)[48][72]'
+  Génération de code en cours
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  PortalKong.vcxproj -> C:\Users\Flo\Documents\_Cours\B1\_A COURS\_C\1er jeu\ZE PROJECT\PortalKong\Release\ZE PROJECT.exe
